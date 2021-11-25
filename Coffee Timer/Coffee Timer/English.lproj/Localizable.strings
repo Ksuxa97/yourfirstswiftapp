@@ -1,0 +1,47 @@
+﻿/* Coffee section title */
+"Coffees" = "Coffees";
+
+/* Columbian coffee name */
+"Colombian" = "Colombian";
+
+/* Green tea name */
+"Green Tea" = "Green Tea";
+
+/* Mexian coffee name */
+"Mexican" = "Mexican";
+
+/* minute singular */
+"minute" = "minute";
+
+/* minute plural */
+"minutes" = "minutes";
+
+/* Oolon tea name */
+"Oolong" = "Oolong";
+
+/* Rooibos tea name */
+"Rooibos" = "Rooibos";
+
+/* second singular */
+"second" = "second";
+
+/* second plural */
+"seconds" = "seconds";
+
+/* Start button title */
+"Start" = "Start";
+
+/* Stop button title */
+"Stop" = "Stop";
+
+/* Tea section title */
+"Teas" = "Teas";
+
+/* Timer completed alert body */
+"Timer Completed!" = "Timer Completed!";
+
+
+
+/* Timer completed alert body */
+"Timer Completed1!" = "Timer Completed1!";
+
