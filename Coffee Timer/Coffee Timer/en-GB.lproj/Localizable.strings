@@ -45,3 +45,5 @@
 /* Timer completed alert body */
 "Timer Completed1!" = "Timer Completed1!";
 
+"new_param" = "My pARAM";
+
