@@ -55,7 +55,12 @@
 		5EC113BD1BAF192500CCE373 /* TimerModel+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "TimerModel+CoreDataProperties.swift"; path = "../TimerModel+CoreDataProperties.swift"; sourceTree = "<group>"; };
 		5EC113BE1BAF192500CCE373 /* TimerModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TimerModel.swift; path = ../TimerModel.swift; sourceTree = "<group>"; };
 		5EC4B57A1A61457600792B2B /* TimerListTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TimerListTableViewController.swift; sourceTree = "<group>"; };
-		8058EDDD274FCFB800AA81E2 /* English */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = English; path = English.lproj/Localizable.strings; sourceTree = "<group>"; };
+		8058EDDE274FD53500AA81E2 /* en-GB */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "en-GB"; path = "en-GB.lproj/Main.strings"; sourceTree = "<group>"; };
+		8058EDDF274FD53600AA81E2 /* en-GB */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "en-GB"; path = "en-GB.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		8058EDE0274FD53600AA81E2 /* en-GB */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "en-GB"; path = "en-GB.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
+		8058EDE1274FD57400AA81E2 /* th */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = th; path = th.lproj/Main.strings; sourceTree = "<group>"; };
+		8058EDE2274FD57500AA81E2 /* th */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = th; path = th.lproj/Localizable.strings; sourceTree = "<group>"; };
+		8058EDE3274FD57500AA81E2 /* th */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = th; path = th.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -220,9 +225,10 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				English,
-				en,
 				Base,
 				fr,
+				"en-GB",
+				th,
 			);
 			mainGroup = 5E1F8CD419839CB000A83E4F;
 			productRefGroup = 5E1F8CDE19839CB000A83E4F /* Products */;
@@ -297,6 +303,8 @@
 			children = (
 				5E1F8CE719839CB100A83E4F /* Base */,
 				5E70625F1B1B89DE008AE365 /* fr */,
+				8058EDDE274FD53500AA81E2 /* en-GB */,
+				8058EDE1274FD57400AA81E2 /* th */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -306,6 +314,8 @@
 			children = (
 				5E7062661B1B8B64008AE365 /* Base */,
 				5E7062691B1B8B65008AE365 /* fr */,
+				8058EDE0274FD53600AA81E2 /* en-GB */,
+				8058EDE3274FD57500AA81E2 /* th */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -315,7 +325,8 @@
 			children = (
 				5E70626D1B1B9379008AE365 /* Base */,
 				5E70626F1B1B937B008AE365 /* fr */,
-				8058EDDD274FCFB800AA81E2 /* English */,
+				8058EDDF274FD53600AA81E2 /* en-GB */,
+				8058EDE2274FD57500AA81E2 /* th */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
